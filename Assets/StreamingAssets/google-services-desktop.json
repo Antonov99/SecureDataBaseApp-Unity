@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717619086267",
+    "firebase_url": "https://rtudb-4ccba-default-rtdb.firebaseio.com",
+    "project_id": "rtudb-4ccba",
+    "storage_bucket": "rtudb-4ccba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717619086267:android:8d47071c400866d1a77a9e",
+        "android_client_info": {
+          "package_name": "com.DeadlineTech.rtuDB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717619086267-tf526635u73i9e4kaut0ekaijmbr1kj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqVMHnheQaSatvS7JjkL-70-ghN8dmDik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717619086267-tf526635u73i9e4kaut0ekaijmbr1kj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717619086267-jdeu2v90gflvucqqdbqa0n2g8f2b0mgf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DeadlineTech.rtuDB"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
